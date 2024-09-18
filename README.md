@@ -5,6 +5,7 @@ Opens 4 windows of chrome using selenium. The website opened is [neal.fun/sun-vs
 REQUIREMENTS:
 
 Selenium: pip install -U selenium
+<br>
 SELENIUM DRIVER.
 
 You can find the exe version in the releases tab.
