@@ -1,11 +1,11 @@
-The name says it all really.
+# Selenium Multi-Window Opener
 
-Opens 4 windows of chrome using selenium. The website opened is [neal.fun/sun-vs-moon/](https://neal.fun/sun-vs-moon/).
+This script opens four windows of Google Chrome using Selenium, navigating to the website [neal.fun/sun-vs-moon/](https://neal.fun/sun-vs-moon/).
 
-REQUIREMENTS:
+## Requirements
 
-Selenium: pip install -U selenium
-<br>
-SELENIUM DRIVER.
+To run this script, you need to have the following installed:
 
-You can find the exe version in the releases tab.
+- **Selenium**: Install the latest version using pip:
+  ```bash
+  pip install -U selenium
